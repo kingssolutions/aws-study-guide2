@@ -1,0 +1,14 @@
+# AWS Cloud Practitioner Study Guide
+## Introduction
+This study guide covers the basics required for the AWS Cloud Practitioner exam.
+## Topics Covered
+- Cloud Concepts
+- AWS Core Services
+- Security and Compliance - Pricing and Billing
+## Resources
+- [AWS Training](https://aws.amazon.com/training/)
+- [AWS Documentation](https://docs.aws.amazon.com/)
+## Tips
+- Review each topic thoroughly.
+- Take practice exams.
+- Understand the AWS Shared Responsibility Model.
